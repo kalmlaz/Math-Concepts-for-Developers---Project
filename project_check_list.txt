@@ -1,0 +1,23 @@
+Math-Concepts-for-Developers---Project
+
+This checklist is to help me track my work progress and any edits I make along the way.
+
+Read up on geometry, trigonometry and spherical trigonometry - DONE
+
+Compile a reading list for the project - IN PROGRESS
+
+1. Write the introduction - NOT STARTED
+
+2. Write the "Mathematical concepts and calculations - planning a journey" section - NOT STARTED
+
+3. Write the "Mathematical concepts and calculations - staying on course" section - NOT STARTED
+
+4. Write the first voyage section, along with the python code - NOT STARTED
+
+5. Write the second voyage section, along with the python code - NOT STARTED
+
+6. Write the third voyage section, along with the python code - NOT STARTED
+
+7. Write the fourth voyage section, along with the python code - NOT STARTED
+
+8. Write the conclusion - NOT STARTED
