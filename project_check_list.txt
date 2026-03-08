@@ -6,6 +6,8 @@ Read up on geometry, trigonometry and spherical trigonometry - DONE
 
 Compile a reading list for the project - DONE
 
+Compile a reading list for the project -DONE
+
 1. Write the introduction - IN PROGRESS
 
 2. Write the "Mathematical concepts and calculations - planning a journey" section - NOT STARTED
