@@ -16,9 +16,9 @@ Explain the math that 18th century ship captains and navigators used to plan voy
 
 \*Project Idea Edit\*
 
-While reading about 18 century sailors and the math they used, I found out that the mathematical concepts were different at that time. They were underdeveloped and not as fleshed out. It would take almost a century for the math, measurements and tables to be like the ones we use now. Because of that, I have decided to tweak my project idea and remove the historical accuracy constraints. 
+While reading about 18 century sailors and the math they used, I found out that the mathematical concepts were different at that time. They were underdeveloped and not as fleshed out. It would take almost a century for the math, measurements and tables to be like the ones we use now. Because of that, I have decided to tweak my project idea and remove the historical accuracy constraints.
 
-I will still describe the math behind a voyage across the Atlantic and then model it under different conditions, but I will use modern nautical navigation knowledge and concepts. 
+I will still describe the math behind a voyage across the Atlantic and then model it under different conditions, but I will use modern nautical navigation knowledge and concepts.
 
 
 
@@ -68,11 +68,14 @@ Structure Pan:
 
 1. Introduction
 
-* Explain the purpose of this project 
+* Explain the purpose of this project
 
 -math explainer/ tutorial type (explain what those are) of marine navigational mathematics (briefly go into detail here about what that is).
 
 -serving as "background" of the paper, I will plan a traditional (here meaning without the use of a GPS system or modern electronics) voyage across the Atlantic from Cadiz, Spain - Santo Domingo, Dominican Republic.
+
+* Explain the limitations of this project - e.g. possibly ignoring historically proven sailing routes, ignoring the optimal months and currents for this journey, ignoring the difference in season.
+* Talk about how the tiniest difference in calculations (e.g. 1 degree) can throw you off course completely - Hypothesis testing using the modals
 
 
 
@@ -81,4 +84,43 @@ Structure Pan:
 * Plan the shortest route
 
 -spherical trigonometry (great circle arc) -> explain why we need those and what they are/ calculate the route and explain the calculations/ prove the formulas (maybe also calculate the distance as a straight line for comparison).
+
+-explain what is a nautical mile and how to calculate it.
+
+-talk about magnetic north and true north, as well as compass bearings.
+
+* Introduce computational errors on purpose, to show how small mistakes can add up and throw you off course.
+
+
+
+
+
+3\. Mathematical concepts and calculations - staying on course
+
+* Dead reckoning
+* Celestial navigation and sextant use
+* Use of a chronometer
+* Introduce computational errors on purpose, to show how small mistakes can add up and throw you off course.
+
+
+
+4\.  Voyage model
+
+* 1st write a python model that puts the above explained math in action, keeping in mind the restrictions outlined in the introduction.
+* 2nd write a python model that introduces a variable - unfavorable wind - and see how the model changes.
+
+-set and drift
+
+-compass deviation
+
+* 3rd write a python model that introduces another variable - unfavorable currents - and see how the model changes.
+* 4th write a python model that combines the two variables - imagine a storm from beginning to end - and see how the model changes.
+
+
+
+5\. Conclusion
+
+Write a summary of the above.
+
+
 
