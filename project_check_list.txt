@@ -4,9 +4,9 @@ This checklist is to help me track my work progress and any edits I make along t
 
 Read up on geometry, trigonometry and spherical trigonometry - DONE
 
-Compile a reading list for the project - IN PROGRESS
+Compile a reading list for the project - DONE
 
-1. Write the introduction - NOT STARTED
+1. Write the introduction - IN PROGRESS
 
 2. Write the "Mathematical concepts and calculations - planning a journey" section - NOT STARTED
 
