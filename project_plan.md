@@ -22,12 +22,17 @@ I will still describe the math behind a voyage across the Atlantic and then mode
 
 
 
+\*\*Project Idea Final Edit\*\*
+
+Due to time constraints and difficulty grasping all of the topic's mathematics, as well as coding them in python, the final project focuses only on the first part of the original project idea - the calculations behind planning a journey across the Atlantic. I plan or returning to this project, as the topic and exercise it provides interest me.
+
+
+
 Structure Pan:
 
 
 
 1. Introduction
-
 * Give some brief context into the time period. What did naval navigation look like; what tools were used; what did skilled navigators had to know.
 * Explain the purpose of this project, along with its constraints.
 
@@ -67,12 +72,11 @@ Structure Pan:
 
 
 1. Introduction
-
 * Explain the purpose of this project
 
--math explainer/ tutorial type (explain what those are) of marine navigational mathematics (briefly go into detail here about what that is).
+\-math explainer/ tutorial type (explain what those are) of marine navigational mathematics (briefly go into detail here about what that is).
 
--serving as "background" of the paper, I will plan a traditional (here meaning without the use of a GPS system or modern electronics) voyage across the Atlantic from Cadiz, Spain - Santo Domingo, Dominican Republic.
+\-serving as "background" of the paper, I will plan a traditional (here meaning without the use of a GPS system or modern electronics) voyage across the Atlantic from Cadiz, Spain - Santo Domingo, Dominican Republic.
 
 * Explain the limitations of this project - e.g. possibly ignoring historically proven sailing routes, ignoring the optimal months and currents for this journey, ignoring the difference in season.
 * Talk about how the tiniest difference in calculations (e.g. 1 degree) can throw you off course completely - Hypothesis testing using the modals
@@ -83,11 +87,11 @@ Structure Pan:
 
 * Plan the shortest route
 
--spherical trigonometry (great circle arc) -> explain why we need those and what they are/ calculate the route and explain the calculations/ prove the formulas (maybe also calculate the distance as a straight line for comparison).
+\-spherical trigonometry (great circle arc) -> explain why we need those and what they are/ calculate the route and explain the calculations/ prove the formulas (maybe also calculate the distance as a straight line for comparison).
 
--explain what is a nautical mile and how to calculate it.
+\-explain what is a nautical mile and how to calculate it.
 
--talk about magnetic north and true north, as well as compass bearings.
+\-talk about magnetic north and true north, as well as compass bearings.
 
 * Introduce computational errors on purpose, to show how small mistakes can add up and throw you off course.
 
@@ -109,9 +113,9 @@ Structure Pan:
 * 1st write a python model that puts the above explained math in action, keeping in mind the restrictions outlined in the introduction.
 * 2nd write a python model that introduces a variable - unfavorable wind - and see how the model changes.
 
--set and drift
+\-set and drift
 
--compass deviation
+\-compass deviation
 
 * 3rd write a python model that introduces another variable - unfavorable currents - and see how the model changes.
 * 4th write a python model that combines the two variables - imagine a storm from beginning to end - and see how the model changes.
@@ -121,6 +125,4 @@ Structure Pan:
 5\. Conclusion
 
 Write a summary of the above.
-
-
 
