@@ -8,9 +8,11 @@ Compile a reading list for the project - DONE
 
 Compile a reading list for the project -DONE
 
-1. Write the introduction - Done
+1. Write the introduction - DONE
 
-2. Write the "Mathematical concepts and calculations - planning a journey" section - IN PROGRESS
+2. Write the "Mathematical concepts and calculations - planning a journey" section - DONE
+
+---Below sections are unrealized due to time constraints---
 
 3. Write the "Mathematical concepts and calculations - staying on course" section - NOT STARTED
 
